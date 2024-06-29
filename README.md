@@ -11,7 +11,7 @@
 ![top](./pcb-images/version-1/top-ortho.png)
 
 #### Top Gerber
-![top-gerber(./pcb-images/version-1/copper-top.png)
+![top-gerber](./pcb-images/version-1/copper-top.png)
 
 
 ### pinouts 
